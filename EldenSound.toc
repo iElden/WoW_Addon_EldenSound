@@ -1,0 +1,10 @@
+## Interface: 90100
+## Title: EldenSound
+## Version: 1.0
+## Author: iElden
+## Notes: Just a mod to store my custom sound
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+EldenSound.lua
